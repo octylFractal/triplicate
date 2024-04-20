@@ -1,0 +1,6 @@
+[libraries]
+jspecify = "org.jspecify:jspecify:0.3.0"
+findbugs-jsr305 = "com.google.code.findbugs:jsr305:3.0.2"
+guava = "com.google.guava:guava:32.0.1-jre"
+lwjgl-bom = "org.lwjgl:lwjgl-bom:3.3.3"
+junit-jupiter = "org.junit.jupiter:junit-jupiter:5.10.1"
